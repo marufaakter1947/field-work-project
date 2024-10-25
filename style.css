@@ -754,7 +754,7 @@ display: flex;
 
 /* =============Portfolio=========== */
 .portfolio_container{
-    overflow: initial;
+    overflow: hidden;
      position: relative;
 }
 
